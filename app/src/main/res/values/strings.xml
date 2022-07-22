@@ -11,4 +11,5 @@
     <string name="enter_note">Enter Note</string>
     <string name="update">Update</string>
     <string name="delete">Delete</string>
+    <string name="notes">Notes</string>
 </resources>

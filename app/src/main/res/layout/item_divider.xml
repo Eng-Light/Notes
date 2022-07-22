@@ -9,5 +9,7 @@
         android:layout_height="1dp"
         android:layout_marginHorizontal="12dp"
         android:background="?attr/colorPrimaryVariant"
+        android:clickable="true"
+        android:focusable="true"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
